@@ -1,0 +1,8 @@
+method: GET
+uri: /test/service
+response:
+  text: zdarovchik!
+  file: test.txt
+status: 200
+headers:
+  content-type: application/json

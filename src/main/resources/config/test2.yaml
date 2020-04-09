@@ -1,0 +1,6 @@
+name: testServiceMock2
+method: POST
+uri: /test/service
+status: 200
+headers:
+  content-type: application/json
